@@ -56,51 +56,5 @@ Measures used to assess the performance and results include precision, recall, a
 This project showcases how AI can change vocational education to personalized and adaptive learning pathways that match individual’s expectations with the needs of the industry, improve their employability, and support effective skill-building. This approach is designed to scale up and be inclusive in the context of changing job requirements.
 ## References
 [1] Smith, “AI in Education,” Journal of EdTech, 2022.                                                                                                             
-[2] Kumar, “Skill Development in India,” Conference Paper, 2023.
-[3] NSDC, https://www.nsdcindia.org/                                                                                                                               
-[4] Coursera, https://www.coursera.org/
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[3] text links
-```
+[2] Kumar, “Skill Development in India,” Conference Paper, 2023.                                                                                                   
+[3] NSDC, https://www.nsdcindia.org/
