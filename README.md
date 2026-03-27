@@ -59,7 +59,8 @@ This project showcases how AI can change vocational education to personalized an
 [2] Kumar, "Skill Development in India," Conference Paper, 2023.
 [3] https://www.nsdcindia.org/
 [4] https://www.coursera.org/
-[1] Author, "Paper Title," Journal/Conference, Year.
-[2] Author, "Another Paper," Year.
+
+
+
 [3] text links
 ```
